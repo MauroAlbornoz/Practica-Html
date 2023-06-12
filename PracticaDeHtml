@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de introducción a HTML en OpenBootCamp</title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos lineas
+        Aprendiendo a documentar mi código con OpenBootCamp-->
+
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=z95mZVUcJ-E&t=14626s">Curso de JAVASCRIPT desde cero (Completo) - Nivel Junior</a></li>
+
+            <li><a href="https://www.youtube.com/watch?v=I66TvN1IIpA">On My Own | Slowed + Reverb | lxhaan</a></li>
+
+            <li><a href="https://www.youtube.com/watch?v=rhh_SBYIubw">UR FINAL MESSAGE - Slowed</a></li>
+        </ul>
+    </body>
+</html>
